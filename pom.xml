@@ -38,6 +38,7 @@
      <prunsrvServiceName>AnSmtpServer</prunsrvServiceName>
      <prunsrvDisplayName>An SMTP server</prunsrvDisplayName>
      <prunsrvDescription>This service responds to incoming STMP connections on port 2200.</prunsrvDescription>
+     <izpackDefaultInstallDir>$APPLICATIONS_DEFAULT_ROOT\ansmtpserver</izpackDefaultInstallDir>
      <use64BitJre>true</use64BitJre>
     </configuration>
     <executions>
