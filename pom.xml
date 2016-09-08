@@ -35,6 +35,9 @@
     </dependencies>
     <configuration>
      <prunsrvDaemonLauncherClass>ansmtpserver.AnSmtpServer</prunsrvDaemonLauncherClass>
+     <prunsrvServiceName>AnSmtpServer</prunsrvServiceName>
+     <prunsrvDisplayName>An SMTP server</prunsrvDisplayName>
+     <prunsrvDescription>This service responds to incoming STMP connections on port 2200.</prunsrvDescription>
      <use64BitJre>true</use64BitJre>
     </configuration>
     <executions>
