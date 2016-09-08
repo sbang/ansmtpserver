@@ -1,0 +1,5 @@
+* JavaZone 2016 Lightning talk: A Java windows service in 10 minutes
+
+This git repository contains the code example from the [[https://2016.javazone.no/program/a-java-windows-service-in-10-minutes][JavaZone 2016 lightning talk "A Java windows service in 10 minutes"]].
+
+The lightning talk created a Windows service installer in a live demo lasting 10 minutes, the steps of the demo are described in the blog post [[https://steinar.bang.priv.no/2016/09/08/making-a-java-windows-service-in-10-minutes/][Making a Java windows service in 10 minutes]].
