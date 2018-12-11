@@ -32,6 +32,11 @@
       <artifactId>windows-service-installer-common</artifactId>
       <version>1.0.6</version>
      </dependency>
+     <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>19.0</version>
+     </dependency>
     </dependencies>
     <configuration>
      <prunsrvDaemonLauncherClass>ansmtpserver.AnSmtpServer</prunsrvDaemonLauncherClass>
